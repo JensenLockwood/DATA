@@ -1,0 +1,734 @@
+[
+    {
+      "workDistance_Region": "code",
+      "FIELD2": "category",
+      "FIELD3": "value",
+      "FIELD4": "areaName"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "N/A",
+      "FIELD3": "1739043",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "2less",
+      "FIELD3": "158919",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "2_5",
+      "FIELD3": "163384",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "5_10",
+      "FIELD3": "174625",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "10_20",
+      "FIELD3": "174245",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "20_30",
+      "FIELD3": "75403",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "30_40",
+      "FIELD3": "31059",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "40_60",
+      "FIELD3": "22351",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "60plus",
+      "FIELD3": "27546",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "home",
+      "FIELD3": "350470",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "offshore",
+      "FIELD3": "190447",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "N/A",
+      "FIELD3": "1508957",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "2less",
+      "FIELD3": "129916",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "2_5",
+      "FIELD3": "164729",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "5_10",
+      "FIELD3": "163233",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "10_20",
+      "FIELD3": "142730",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "20_30",
+      "FIELD3": "45870",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "30_40",
+      "FIELD3": "17390",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "40_60",
+      "FIELD3": "12640",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "60plus",
+      "FIELD3": "19154",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "home",
+      "FIELD3": "282172",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000001",
+      "FIELD2": "offshore",
+      "FIELD3": "160222",
+      "FIELD4": "North East"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "N/A",
+      "FIELD3": "4075652",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "2less",
+      "FIELD3": "409185",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "2_5",
+      "FIELD3": "496999",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "5_10",
+      "FIELD3": "453727",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "10_20",
+      "FIELD3": "361423",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "20_30",
+      "FIELD3": "122872",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "30_40",
+      "FIELD3": "49098",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "40_60",
+      "FIELD3": "33463",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "60plus",
+      "FIELD3": "37510",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "home",
+      "FIELD3": "913829",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000002",
+      "FIELD2": "offshore",
+      "FIELD3": "463639",
+      "FIELD4": "North West"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "N/A",
+      "FIELD3": "3019405",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "2less",
+      "FIELD3": "297802",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "2_5",
+      "FIELD3": "370838",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "5_10",
+      "FIELD3": "334329",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "10_20",
+      "FIELD3": "273360",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "20_30",
+      "FIELD3": "93990",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "30_40",
+      "FIELD3": "40573",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "40_60",
+      "FIELD3": "29518",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "60plus",
+      "FIELD3": "34069",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "home",
+      "FIELD3": "637370",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000003",
+      "FIELD2": "offshore",
+      "FIELD3": "349519",
+      "FIELD4": "Yorkshire and The Humber"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "N/A",
+      "FIELD3": "2607730",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "2less",
+      "FIELD3": "276575",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "2_5",
+      "FIELD3": "307892",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "5_10",
+      "FIELD3": "273972",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "10_20",
+      "FIELD3": "272014",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "20_30",
+      "FIELD3": "120861",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "30_40",
+      "FIELD3": "47940",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "40_60",
+      "FIELD3": "32800",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "60plus",
+      "FIELD3": "37853",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "home",
+      "FIELD3": "586025",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000004",
+      "FIELD2": "offshore",
+      "FIELD3": "316394",
+      "FIELD4": "East Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "N/A",
+      "FIELD3": "3311868",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "2less",
+      "FIELD3": "296330",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "2_5",
+      "FIELD3": "394137",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "5_10",
+      "FIELD3": "361449",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "10_20",
+      "FIELD3": "296894",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "20_30",
+      "FIELD3": "123626",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "30_40",
+      "FIELD3": "44528",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "40_60",
+      "FIELD3": "32545",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "60plus",
+      "FIELD3": "38874",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "home",
+      "FIELD3": "676936",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000005",
+      "FIELD2": "offshore",
+      "FIELD3": "373570",
+      "FIELD4": "West Midlands"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "N/A",
+      "FIELD3": "3306433",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "2less",
+      "FIELD3": "332129",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "2_5",
+      "FIELD3": "316559",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "5_10",
+      "FIELD3": "268403",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "10_20",
+      "FIELD3": "315828",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "20_30",
+      "FIELD3": "170260",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "30_40",
+      "FIELD3": "80093",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "40_60",
+      "FIELD3": "63791",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "60plus",
+      "FIELD3": "45649",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "home",
+      "FIELD3": "966487",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000006",
+      "FIELD2": "offshore",
+      "FIELD3": "469442",
+      "FIELD4": "East of England"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "N/A",
+      "FIELD3": "4439651",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "2less",
+      "FIELD3": "331191",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "2_5",
+      "FIELD3": "484894",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "5_10",
+      "FIELD3": "533671",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "10_20",
+      "FIELD3": "409530",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "20_30",
+      "FIELD3": "79897",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "30_40",
+      "FIELD3": "23145",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "40_60",
+      "FIELD3": "15808",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "60plus",
+      "FIELD3": "29917",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "home",
+      "FIELD3": "1836823",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000007",
+      "FIELD2": "offshore",
+      "FIELD3": "615201",
+      "FIELD4": "London"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "N/A",
+      "FIELD3": "4806285",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "2less",
+      "FIELD3": "478840",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "2_5",
+      "FIELD3": "477571",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "5_10",
+      "FIELD3": "425138",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "10_20",
+      "FIELD3": "411605",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "20_30",
+      "FIELD3": "193432",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "30_40",
+      "FIELD3": "84076",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "40_60",
+      "FIELD3": "71477",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "60plus",
+      "FIELD3": "63947",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "home",
+      "FIELD3": "1603079",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000008",
+      "FIELD2": "offshore",
+      "FIELD3": "662614",
+      "FIELD4": "South East"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "N/A",
+      "FIELD3": "3008852",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "2less",
+      "FIELD3": "347026",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "2_5",
+      "FIELD3": "322329",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "5_10",
+      "FIELD3": "285380",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "10_20",
+      "FIELD3": "266918",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "20_30",
+      "FIELD3": "101160",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "30_40",
+      "FIELD3": "52451",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "40_60",
+      "FIELD3": "44539",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "60plus",
+      "FIELD3": "48089",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "home",
+      "FIELD3": "818531",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "E12000009",
+      "FIELD2": "offshore",
+      "FIELD3": "405911",
+      "FIELD4": "South West"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "N/A",
+      "FIELD3": "1739043",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "2less",
+      "FIELD3": "158919",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "2_5",
+      "FIELD3": "163384",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "5_10",
+      "FIELD3": "174625",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "10_20",
+      "FIELD3": "174245",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "20_30",
+      "FIELD3": "75403",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "30_40",
+      "FIELD3": "31059",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "40_60",
+      "FIELD3": "22351",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "60plus",
+      "FIELD3": "27546",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "home",
+      "FIELD3": "350470",
+      "FIELD4": "Wales"
+    },
+    {
+      "workDistance_Region": "W92000004",
+      "FIELD2": "offshore",
+      "FIELD3": "190447",
+      "FIELD4": "Wales"
+    }
+   ]
