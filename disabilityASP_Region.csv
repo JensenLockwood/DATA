@@ -23,19 +23,9 @@ E12000007,1,7.1,London
 E12000008,1,6.2,South East
 E12000009,1,7,South West
 W92000004,1,10,Wales
-E12000001,-8,0,North East
-E12000002,-8,0,North West
-E12000004,-8,0,East Midlands
-E12000006,-8,0,East of England
-E12000007,-8,0,London
-E12000008,-8,0,South East
-E12000009,-8,0,South West
-W92000004,-8,0,Wales
 E12000003,3,81.1,Yorkshire and The Humber
 E12000005,3,81.5,West Midlands
 E12000003,2,10.7,Yorkshire and The Humber
 E12000005,2,10.4,West Midlands
 E12000003,1,8.2,Yorkshire and The Humber
 E12000005,1,8,West Midlands
-E12000003,-8,0,Yorkshire and The Humber
-E12000005,-8,0,West Midlands
