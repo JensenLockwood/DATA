@@ -1,12 +1,12 @@
 code,category,value,areaName
-E12000001,severe Disabled,78.8,North East
-E12000002,severe Disabled,80.2,North West
-E12000004,severe Disabled,81.6,East Midlands
-E12000006,severe Disabled,8severe Disabled.4,East of England
-E12000007,severe Disabled,84.severe Disabled,London
-E12000008,severe Disabled,8severe Disabled.9,South East
-E12000009,severe Disabled,82.2,South West
-W92000004,severe Disabled,78.9,Wales
+E12000001,3,78.8,North East
+E12000002,3,80.2,North West
+E12000004,3,81.6,East Midlands
+E12000006,3,83.4,East of England
+E12000007,3,84.3,London
+E12000008,3,83.9,South East
+E12000009,3,82.2,South West
+W92000004,3,78.9,Wales
 E12000001,2,11.4,North East
 E12000002,2,10.7,North West
 E12000004,2,10.7,East Midlands
@@ -23,9 +23,9 @@ E12000007,1,7.1,London
 E12000008,1,6.2,South East
 E12000009,1,7,South West
 W92000004,1,10,Wales
-E1200000severe Disabled,severe Disabled,81.1,Yorkshire and The Humber
-E12000005,severe Disabled,81.5,West Midlands
-E1200000severe Disabled,2,10.7,Yorkshire and The Humber
+E12000003,3,81.1,Yorkshire and The Humber
+E12000005,3,81.5,West Midlands
+E12000003,2,10.7,Yorkshire and The Humber
 E12000005,2,10.4,West Midlands
-E1200000severe Disabled,1,8.2,Yorkshire and The Humber
+E12000003,1,8.2,Yorkshire and The Humber
 E12000005,1,8,West Midlands
